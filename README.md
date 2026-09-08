@@ -1,2 +1,1 @@
-# HlavniWeb
-## Téma: Sokolnictví, přehled dravců
+# Téma: Sokolnictví, přehled dravců
